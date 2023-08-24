@@ -8,6 +8,6 @@ document.addEventListener("DOMContentLoaded", function() {
     var div = document.getElementById("botonDiv");
 
     div.addEventListener("click", function() {
-        alert("¡Hola! Soy el div");
+        alert("¡Hola! Soy el div minieri");
     });
 });
